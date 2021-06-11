@@ -2,7 +2,7 @@
 
 I am commiting myself to learn software development for the next 100 days.
 
-![100 Days Of Code](100DaysOfCode.jpg)
+![100 Days Of Code](100daysofcode.jpg)
 
 This is a dedicated repo for my #100DaysOfCode.
 
