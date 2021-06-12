@@ -22,7 +22,7 @@ To be honest, before this challenge, I already started studying the book and I'm
 
 **NOTE:** *I will check things from this list after doing each one of these*
 
-- [ ] **Waterfall model**
+- [ ] **Waterfall model vs Agile**
 - [ ] **SCRUM**
 - [ ] **Kanban**
 - [ ] **Requirements, Commitment, and deadlines**
