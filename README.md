@@ -8,7 +8,7 @@ This is a dedicated repo for my #100DaysOfCode.
 
 I am aiming to learn software development and expand my knowledge from react.js to full-stack development. I am planning to build a fullstack app after this.
 
-I am also aiming to smooth out things and start out simple by abstracting the backend through firebase at start, then gradually into backend dev.
+I am also aiming to smooth out things and start out simple by abstracting the backend through firebase at start, then gradually into backend dev. This is of course, after I studied my chosen topics and start building the project.
 
 Honestly before this, I already have some knowledge of node.js and express and have made a simple REST API before, but that's a very basic and shallow understanding and I want to improve my knowledege about it.
 
