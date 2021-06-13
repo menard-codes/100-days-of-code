@@ -1,4 +1,4 @@
-# What is Scrum
+# Scrum
 
 ![Scrum](../Images/1.jpg)
 
