@@ -12,7 +12,7 @@ I am also aiming to smooth out things and start out simple by abstracting the ba
 
 Honestly before this, I already have some knowledge of node.js and express and have made a simple REST API before, but that's a very basic and shallow understanding and I want to improve my knowledege about it.
 
-For this challenge, I am going to use a book titled **"Software Development from A to Z A Deep Dive Into All the Roles Involved in the Creation of Software"**.
+For this challenge, I am going to use the book with a title of **"Software Development from A to Z A Deep Dive Into All the Roles Involved in the Creation of Software"**.
 
 ## Before the challenge
 
