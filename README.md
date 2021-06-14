@@ -25,7 +25,7 @@ To be honest, before this challenge, I already started studying the book and I'm
 - [x] **Waterfall model vs Agile**
 - [x] **SCRUM**
 - [x] **Kanban**
-- [ ] **Requirements, Commitment, and deadlines**
+- [x] **Requirements, Commitment, and deadlines**
 - [ ] **User-Centered design**
 - [ ] **Backend Development**
 - [ ] **Frontend Development**
