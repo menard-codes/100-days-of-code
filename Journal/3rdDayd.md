@@ -29,7 +29,7 @@ For a bug tracker, we might list out the following:
 
 This rough sketch will serve as the foundation of our early project.
 
-We can add more heare, but it's better to keep things simple at first and just focus on the core of our project. Additional features can just be added once our product is already up and running.
+We can add more here, but it's better to keep things simple at first and just focus on the core of our project. Additional features can just be added once our product is already up and running.
 
 From there, we break down each requirements into narrower requirements of our software.
 
@@ -37,8 +37,6 @@ For example:
 
 |          Feature         | Area | Description |
 |--------------------------|------|-------------|
-| Navbar | All | Holds navigation links to different parts of the bug tracker |
-| Footer | All | Holds more links to other parts of the website |
 | Sign-up (Email/password) |  A   | Users can create their account using email and password,and will automatically become the admin of his organization. This user must invite other people to the organization and assign them their role, such as developer, tester, product owner, etc. |
 | Sign-up (OAuth) | A | Users can also create their account via third party OAuth providers such as Google, Facebook, and GitHub. Users will also be automatically become the admin of his organization and must invite the team members and assign them their roles. |
 | Sign-Up (Invited) | A | An invited user can sign up via email or OAuth providers. Invited users can't create their own organization, and is only limited to things based on the assigned role to him, but the admin can also assign the invited user as admin and gain the same privilages. |
