@@ -15,6 +15,7 @@ From software requirements, the designer's job is to bridge the business goals a
 In this blog post, we will take a quick look at how we turn the software requirements to designs that are ready for development phase.
 
 ## The Design Process
+
 ### 1. User stories and User Persona
 
 One of the first things designers do before drafting the look and feel of the app is the User Persona.
@@ -35,6 +36,7 @@ We might list out the following:
 **Role**: Digital Marketer
 **Age**: 25
 **Job responsibilities**:
+
 - SEO
 - Search Engine Marketing (SEM)
 - Social Media Marketing
@@ -60,6 +62,7 @@ If you're objective as a user is to learn about the what causes solar and lunar 
 This is the same with the structure of your app.
 
 First, you lay out the things a user can do:
+
 - Sign-up/Log-in
 - Add a note or task
 - Change their profile picture
