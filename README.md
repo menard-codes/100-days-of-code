@@ -26,7 +26,7 @@ To be honest, before this challenge, I already started studying the book and I'm
 - [x] **SCRUM**
 - [x] **Kanban**
 - [x] **Requirements, Commitment, and deadlines**
-- [ ] **User-Centered design**
+- [x] **User-Centered design**
 - [ ] **Backend Development**
 - [ ] **Frontend Development**
 - [ ] **Testing our product**
