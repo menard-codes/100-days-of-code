@@ -28,6 +28,8 @@ To be honest, before this challenge, I already started studying the book and I'm
 - [x] **Requirements, Commitment, and deadlines**
 - [x] **User-Centered design**
 - [ ] **Backend Development**
+    [ ] **Database**
+    [ ] **Authentication**
 - [ ] **Frontend Development**
 - [ ] **Testing our product**
 - [ ] **Deployment (Let's go live!)**
