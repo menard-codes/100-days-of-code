@@ -28,8 +28,17 @@ To be honest, before this challenge, I already started studying the book and I'm
 - [x] **Requirements, Commitment, and deadlines**
 - [x] **User-Centered design**
 - [ ] **Backend Development**
+    [ ] **API**
+	[ ] **GraphQL**
+	    [ ] **SDL (Schema Definition Language)**
+	    [ ] **Client and Server side GQL**
+	[ ] **Apollo**
     [ ] **Database**
+	[ ] **FaunaDB**
     [ ] **Authentication**
+	[ ] **Auth0**
+    [ ] **Serverless**
+	[ ] **For the abstracted Backend of my front-end app**
 - [ ] **Frontend Development**
 - [ ] **Testing our product**
 - [ ] **Deployment (Let's go live!)**
